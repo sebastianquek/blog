@@ -23,5 +23,5 @@ author:
   email:             sebastian@u.nus.edu
 
 pages_list:       
-  Archive: '/archive/'
-  RSS: '/atom.xml'
+  Archive: '/blog/archive/'
+  RSS: '/blog/atom.xml'
