@@ -5,8 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Sebastian Quek
-tagline:             Blog
+title:               Sebastian's Blog
 paginate:            1
 baseurl:             "/blog"
 
